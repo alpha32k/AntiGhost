@@ -3,10 +3,6 @@
 [Türkçe](#türkçe) · [English](#english)
 
 <p align="center">
-  <img src="docs/images/icon.png" alt="AntiGhost icon: a ghost inside a red no sign" width="160">
-</p>
-
-<p align="center">
   <img src="docs/images/settings.png" alt="The settings window: language, trigger key, delay, start with Windows, active switch and the F13 / F14 buttons" width="300">
 </p>
 
